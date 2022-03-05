@@ -1,0 +1,82 @@
+* {
+    box-sizing: border-box;
+}
+
+.image{
+    
+ display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+    
+}
+.center{
+    text-align:center;
+    line-height: 1em;
+    font-family: 'Roboto', sans-serif;
+}
+.button{
+    text-align: center;
+    
+    
+}
+
+.head-3{
+    color:rgba(255, 99, 71, 0.5)
+}
+.button-1{
+    width:100px;
+    height:30px;
+    border-radius:7px;
+
+}
+.button-2{
+    background-color:palevioletred;
+    color:white;
+    margin:10px;
+    border-radius:7px;
+    width:100px;
+    height:30px
+    
+}
+.about{
+     font-family: 'Roboto Condensed', sans-serif;
+     
+}
+.interest{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+body{
+    background-color:#1A1B21;
+    color:#A9A9A9;
+;
+}
+.icons{
+    display: flex;
+    align-items:center;
+    justify-content: center;
+   background-color: #161619;
+   height: 40px;
+   border-radius: 5%;
+   width:100%;
+   font-size:25px;
+   
+}
+
+a{
+    margin: 10px;
+}
+ .fa-facebook-official{
+color:#A9A9A9;
+
+}
+.fa-instagram{
+    color:#A9A9A9
+}
+.fa-twitter-square{
+    color:#A9A9A9
+}
+.fa-github-square{
+  color: #A9A9A9  
+}
